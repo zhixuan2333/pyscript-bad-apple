@@ -1,7 +1,12 @@
 # PyScript Bad Apple
 
-![Terminal Bad Apple](./resource/terminal.mov)
-![Web Bad Apple](./resource/web.mov)
+
+https://github.com/user-attachments/assets/d79fee32-cc87-4e7c-8bf7-4750ff5a4fe8
+
+
+https://github.com/user-attachments/assets/009a9a36-13bf-4d93-831e-a833b6cc4d74
+
+
 
 ## Run on Terminal
 
